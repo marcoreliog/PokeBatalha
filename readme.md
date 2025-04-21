@@ -4,7 +4,7 @@
 
 PokeBatalha é um jogo simples de batalha de Pokémon em C, onde dois jogadores ou um jogador e uma IA competem usando seus Pokémon. O objetivo é derrotar todos os Pokémon do adversário utilizando ataques, itens e estratégias de tipo.
 
-**Esse projeto é uma versão atualizada de um projeto antigo que também simulava uma batalha Pokemon, é possível conferir a versão antiga [aqui](https:/github.com/marcoreliog/simulacao-pokemon)** 
+**Esse projeto é uma versão atualizada de um projeto antigo que também simulava uma batalha Pokemon, é possível conferir a versão antiga [aqui](https://github.com/marcoreliog/Simulacao-Pokemon)** 
 
 **Autor**: Marco Aurélio Gonçalves de Souza, Estudante de Engenharia de Computação
 
